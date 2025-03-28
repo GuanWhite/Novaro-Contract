@@ -1,0 +1,47 @@
+{
+  "hardhat": {
+    "chainid": 1337,
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+      }
+    ]
+  },
+  "localhost": {
+    "chainid": 1337,
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+      }
+    ]
+  },
+  "sepolia": {
+    "chainid": 11155111,
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+      }
+    ]
+  },
+  "linea_sepolia": {
+    "chainid": 59141,
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+      }
+    ]
+  },
+  "bsc_sepolia": {
+    "chainid": 97,
+    "tokens": [
+      {
+        "symbol": "USDT",
+        "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+      }
+    ]
+  }
+}
